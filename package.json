@@ -30,6 +30,8 @@
     "moleculer-db-adapter-mongo": "^0.4.13",
     "moleculer-db-adapter-mongoose": "^0.8.12",
     "moleculer-web": "^0.10.2",
+    "mongoose": "^5.13.14",
+    "dotenv": "^16.0.1",
     "nats": "^2.2.0"
   },
   "engines": {
